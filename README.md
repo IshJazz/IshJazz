@@ -1,12 +1,13 @@
 # 💫 About Me
-Full-stack developer with experience in frontend and backend development. Currently working full-time as a Software Developer at **SAP Labs India – Ariba Contracts**, contributing to the design and development of enterprise-grade applications. Experienced in building dynamic, scalable, and user-friendly web and software solutions. Holds a **B.Tech from MNNIT Allahabad**.
+Full-stack developer with experience in frontend and backend development. Currently working full-time as a Software Developer at SAP Labs India – Ariba Contracts, contributing to the design and development of enterprise-grade applications. Experienced in building dynamic, scalable, and user-friendly web and software solutions. Holds a B.Tech from MNNIT Allahabad.
+
 
 ---
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ishjazz4) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishan-dikshit-8b7603275) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishandikshit67@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-dikshit-8b7603275/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishandikshit67@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ishjazz4/)
 
 ---
 
@@ -35,18 +36,18 @@ Full-stack developer with experience in frontend and backend development. Curren
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=IshJazz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=IshJazz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IshJazz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=akhil1g&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.herokuapp.com/?user=akhil1g&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil1g&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 ## 🧩 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/IshJazz?theme=dark)](https://leetcode.com/u/IshJazz/)
-
+[![LeetCode Stats](https://leetcard.jacoblin.cool/akhil1g?theme=dark)](https://leetcode.com/u/IshJazz/)  
+**Contest Rating:** 1970 ⭐ (update manually if needed)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=IshJazz&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=akhil1g&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
