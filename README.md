@@ -42,7 +42,7 @@ Full-stack developer with experience in frontend and backend development. Curren
 ---
 
 ## 🧩 LeetCode Stats
-[![LeetCode Profile](https://leetcode-stats-seven.vercel.app/?username=IshJazz&theme=dark&show_icons=true&count_private=true&hide_title=false)](https://leetcode.com/IshJazz/)
+[![LeetCode Profile](https://leetcode-stats-seven.vercel.app/?username=IshJazz&theme=dark&show_icons=true&count_private=true&hide_title=false)](https://leetcode.com/u/IshJazz/)
 
 ---
 
