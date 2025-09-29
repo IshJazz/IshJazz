@@ -11,7 +11,8 @@ Full-stack developer with experience in frontend and backend development. Curren
 ![](https://github-readme-stats.vercel.app/api?username=IshJazz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=IshJazz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IshJazz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+## 🧩 LeetCode Stats
+[![LeetCode Profile](https://leetcode-stats-seven.vercel.app/?username=YOUR_LEETCODE_USERNAME&theme=dark&show_icons=true&count_private=true&hide_title=false)](https://leetcode.com/IshJazz/)
 ---
 [![](https://visitcount.itsvg.in/api?id=IshJazz&icon=0&color=0)](https://visitcount.itsvg.in)
 
