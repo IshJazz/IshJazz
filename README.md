@@ -43,7 +43,7 @@ Full-stack developer with experience in frontend and backend development. Curren
 ---
 
 ## 🧩 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/IshJazz?theme=dark)](https://leetcode.com/u/IshJazz/)  
+![](https://leetcard.jacoblin.cool/IshJazz?ext=contest&width=800&border=0&radius=20&height=450)
 **Contest Rating:** 1970 
 
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=ishjazz)
