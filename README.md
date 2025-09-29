@@ -39,8 +39,7 @@ Full-stack developer with experience in frontend and backend development. Curren
 ---
 
 ---
-<br>
-<br>
+
 ## 🧩 LeetCode Stats
 ![](https://leetcard.jacoblin.cool/IshJazz?ext=contest&width=800&border=0&radius=20&height=450)
 
